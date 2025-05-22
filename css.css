@@ -1,0 +1,21 @@
+#relogio{
+    font-family: "Orbitron";
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(73, 12, 12);
+    border: 10px;
+    border-radius: 10%;
+    
+    
+
+}
+#cronometro{
+    font-family: "Orbitron";
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 10px;
+    border-radius: 10%;
+    background-color: rgb(70, 196, 175);
+    max-width: 200px;
+}
